@@ -8,11 +8,11 @@ This repo contains all of Font Awesome's icons exported as individual SVG icons 
 
 - Font Awesome is licensed under the SIL OFL 1.1.
 - This repo is licensed under the MIT license.
-- Many of these SVG icons came from another repo, [Font-Awesome-SVG-PNG]:https://github.com/encharm/Font-Awesome-SVG-PNG/.
+- Many of these SVG icons came from another repo, [Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG/).
 
 
 ## How To Use?
 
-My usual workflow involves using GlyphSearch. Here you can view a catalog of all of Font Awesome's icons. The filenames in this repo are the same as what you'll see here.
+My usual workflow involves using [GlyphSearch](http://glyphsearch.com/?library=font-awesome). Here you can view a catalog of all of Font Awesome's icons. The filenames in this repo are the same as what you'll see here.
 
 From there you can include the icon with an <img> tag, paste the code directly into your HTML, or use that code to create an SVG sprite.
